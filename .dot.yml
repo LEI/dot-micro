@@ -1,0 +1,6 @@
+---
+role:
+  pkg:
+    - micro
+  link:
+    - "settings.json:.config/micro"
