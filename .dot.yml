@@ -2,5 +2,6 @@
 role:
   pkg:
     - micro
+  dir: .config/micro
   link:
     - "settings.json:.config/micro"
