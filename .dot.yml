@@ -4,4 +4,5 @@ role:
     - micro
   dir: .config/micro
   link:
-    - "settings.json:.config/micro"
+    - "*.json:.config/micro"
+    - "init.lua:.config/micro"
